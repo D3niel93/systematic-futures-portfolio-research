@@ -1,0 +1,10 @@
+{
+  "status": "STRUCTURE_AND_NUMBERS_PASS",
+  "headings": 34,
+  "tables": 20,
+  "figures": 11,
+  "word_count_including_tables": 5641,
+  "removed_unused_reference_images": 14,
+  "visual_pagination_verified": false,
+  "sha256": "8e9d55b53f9a24cc297b31b8811908bc89762bbfb128dd4a36ff67961c3df395"
+}

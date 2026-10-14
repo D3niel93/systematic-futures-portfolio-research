@@ -3,6 +3,8 @@
 Recruiter-facing index and reproducible portfolio analytics for a personal systematic futures research program.
 
 ## Explore the projects
+The [complete Word research report](reports/research_report/Systematic_Futures_Research_Report_DRAFT.docx) covers all six strategy modules in 34 sections, with 20 tables and 11 figures. It is written in Italian. Structural and numerical checks passed; Word pagination has not been visually verified, so the document remains a draft. See [report evidence and reproducibility](docs/full_report.md).
+
 - [Volatility prediction and confidence/coverage](https://github.com/D3niel93/intraday-volatility-regime-research)
 - [Causal adaptive exit selection](https://github.com/D3niel93/adaptive-futures-exit-research)
 - [Event ordering and backtest validation](https://github.com/D3niel93/event-driven-backtesting-lab)
